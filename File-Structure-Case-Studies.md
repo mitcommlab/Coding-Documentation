@@ -45,7 +45,7 @@ PROJECT/
 
 ### [Case Study 3: A Complex Hierarchy](#casestudy3)
 
-This example is borrowed from [cookiecutter data science](https://drivendata.github.io/cookiecutter-data-science/).
+This example is borrowed from [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/).
 
 ```
 PROJECT/
