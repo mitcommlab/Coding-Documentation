@@ -1,6 +1,6 @@
 ## Three examples of file structures for different project types
 
-### Case Study 1: [Almost] Flat
+### [Case Study 1: Almost Flat](#casestudy1)
 
 ```
 PROJECT/
@@ -19,7 +19,7 @@ PROJECT/
 └── weatherStation_MITGreenBuilding_2019_07_07.csv
 ```
 
-### Case Study 2: A Simple Hierarchy
+### [Case Study 2: A Simple Hierarchy](#casestudy2)
 
 ```
 PROJECT/
@@ -43,7 +43,7 @@ PROJECT/
 └── readme.md
 ```
 
-### Case Study 3: A Complex Hierarchy 
+### [Case Study 3: A Complex Hierarchy](#casestudy3)
 
 This example is borrowed from [cookiecutter data science](https://drivendata.github.io/cookiecutter-data-science/).
 
